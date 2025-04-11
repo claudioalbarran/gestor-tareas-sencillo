@@ -1,2 +1,15 @@
-# gestor-tareas-sencillo
-Aplicación sencilla para gestionar tareas del día a día.
+# Gestor de Tareas Sencillo
+
+¡Bienvenido a mi proyecto!
+Una aplicación web ligera y funcional para gestionar tus tareas diarias de forma simple pero elegante.
+
+## Vista Previa
+
+![Vista previa del proyecto](./assets/preview.png)
+
+## ⚙️ Instalación rápida
+
+1. Clona el repositorio:
+```bash
+git clone https://github.com/tuusuario/gestor-tareas-sencillo.git
+
