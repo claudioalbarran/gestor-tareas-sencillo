@@ -5,7 +5,7 @@ Una aplicación web ligera y funcional para gestionar tus tareas diarias de form
 
 ## Vista Previa
 
-![Vista previa del proyecto](./assets/preview.png)
+![Vista previa del proyecto](.docs/assets/preview.png)
 
 ## ⚙️ Instalación rápida
 
